@@ -1,4 +1,4 @@
-# Dicoding-OpenMusic-BE (Back-End)
+# Dicoding-OpenMusic-Queue-Consumer
 ## What is this ?
 A queue consumer for the [dicoding-openmusic-be](https://github.com/gatraenggar/dicoding-openmusic-be) (music playlist collections app) using Node.js and RabbitMQ.
 This app provides an asynchronous communication with the main server (dicoding-openmusic-be app) to export users' song playlists to the their emails.
